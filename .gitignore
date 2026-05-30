@@ -1,0 +1,5 @@
+#Ignore all java compiled bytecode files
+*.class
+
+#Ignore heavy executable files or logs (optional)
+*.log
